@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Raj Srivastava
 
-🎓 I'm a curious student and aspiring Full Stack Developer who loves diving into code to build awesome, functional projects.
+🎓 I'm a curious student and aspiring Full Stack Developer who loves diving into code to build awesome, functional projects.  
 ---
 
 ## 💻 Tech Stack
@@ -16,24 +16,26 @@
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityarajsrv&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsrv&layout=compact&theme=radical" height="150"/>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityarajsrv&show_icons=true&theme=radical" height="170" alt="GitHub Stats"/> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsrv&layout=compact&theme=radical" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=adityarajsrv&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 🚀 Currently Working On
-- Learning the MERN Stack in-depth 🧠
-- Building exciting web projects 🧩
-- Exploring AI/ML and integrating into real-world apps 🤖
+- Learning the MERN Stack in-depth 🧠  
+- Building exciting web projects 🧩  
+- Exploring AI/ML and integrating into real-world apps 🤖  
 
 ---
 
-## 🔗 Connect with Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adityarajsrv)
-.
+## 🔗 Connect with Me  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adityarajsrv).
 
 ---
-
-
