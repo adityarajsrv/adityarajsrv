@@ -22,10 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsrv&layout=compact&theme=radical" height="170" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adityarajsrv&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 🚀 Currently Working On
