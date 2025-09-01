@@ -52,11 +52,22 @@ Full Stack Developer — building cool things, breaking them, fixing them, and p
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityarajsrv&show_icons=true&theme=radical" height="170" alt="GitHub Stats"/> &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsrv&layout=compact&theme=radical" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajsrv&theme=radical" height="170" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityarajsrv&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
@@ -72,3 +83,5 @@ Full Stack Developer — building cool things, breaking them, fixing them, and p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityarajsrv)
 
 ---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=adityarajsrv)
