@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Raj Srivastava
 
-Full Stack Developer — building cool things, breaking them, fixing them, and pretending that was the plan all along.  
+Full Stack Developer - building cool things, breaking them, fixing them, and pretending that was the plan all along.  
 
 ---
 
