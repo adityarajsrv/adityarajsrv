@@ -36,7 +36,6 @@ Full Stack Developer - building cool things, breaking them, fixing them, and pre
 <p>
   <img src="https://img.shields.io/badge/REST_API-005C84?style=for-the-badge" alt="RESTful APIs"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
 </p>
 
 ### 🛠️ **Tools**
