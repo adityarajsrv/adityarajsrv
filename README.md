@@ -72,8 +72,7 @@ Full Stack Developer - building cool things, breaking them, fixing them, and pre
 
 ---
 
-## 🚀 Currently Working On
-- Diving deep into the **MERN Stack** 🧩  
+## 🚀 Currently Working On 
 - Building responsive, full-stack web projects 🌍  
 - Exploring AI/ML integration for real-world apps 🤖  
 
