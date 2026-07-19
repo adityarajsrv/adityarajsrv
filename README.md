@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=100&text=Aditya%20Raj%20Srivastava&fontSize=28&fontColor=F0EEE8&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer&descAlign=50&descAlignY=68&descSize=13&descColor=888780" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=100&text=Aditya%20Raj%20Srivastava&fontSize=28&fontColor=F0EEE8&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=68&descSize=13&descColor=888780" width="100%"/>
 
 <br/>
 
