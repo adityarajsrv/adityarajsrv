@@ -27,7 +27,6 @@ Interested in applied AI that does real work: retrieval, structured extraction, 
 **AI / LLM**
 <br/>
 ![LangChain](https://img.shields.io/badge/LangChain-1D9E75?style=for-the-badge&logo=langchain&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-1D9E75?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-1D9E75?style=for-the-badge)
 ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-1D9E75?style=for-the-badge)
 
